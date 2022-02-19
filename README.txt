@@ -1,0 +1,1 @@
+This is a text file. We created the summarydata directory that stores tabular data files, the notebook directory that stores IPython notebook files, and the figure directory that stores my project's figures.
